@@ -114,7 +114,7 @@ class Qr extends Component {
   };
 
   handleScan = () => {
-    // Simulate scanning animation for 1.5 seconds
+    // Simulate scanning animation for 3 seconds
     this.setState({ scanning: true }, () => {
       setTimeout(() => {
         this.setState({ scanning: false });
