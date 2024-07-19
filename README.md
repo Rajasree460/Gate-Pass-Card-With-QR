@@ -27,3 +27,13 @@ Real-Time Feedback:<br>
 
 The QR code functionality leverages the moment-timezone library to accurately determine the time in the specified timezone (Asia/Kolkata).<br>
 Upon scanning the QR code, the system checks the current time and displays the appropriate alert message based on the conditions mentioned above.<br>
+# Here is the working
+
+https://github.com/user-attachments/assets/ac848e53-3d36-45d2-bb70-0a9f941141b0
+
+
+
+
+
+https://github.com/user-attachments/assets/31fd490c-5b9c-4536-8d1d-461da291ac95
+
